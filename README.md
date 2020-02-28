@@ -17,8 +17,11 @@ Some quick instructions:
 `bin/mfa_align corpus_directory dictionary_path language_model output`
 
 where `corpus_directory` is the directory containin each speaker's textgrid and .wav files;
+
 `dictionary_path` is the dictionary for the language you are aligning
+
 `language_model` is the zip file containing the aligned model
+
 and `output` is the folder where you would like the aligned textgrids to go
 
 Quechua_dict.txt - Dictionary used for Quechua training 
