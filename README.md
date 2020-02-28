@@ -1,6 +1,6 @@
 # kid_align
 
-Forced aligners trained on child data that are more successful than adult models. 
+Forced aligners, trained on largescale child speech corpora, that are more successful than adult models. 
 
 Montreal forced aligners (MFAs) trained on controlled child speech in English and Quechua (word list readings). Stay tuned for child Spanish aligner. 
 
