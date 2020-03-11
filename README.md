@@ -16,7 +16,7 @@ Some quick instructions:
 
 `bin/mfa_align corpus_directory dictionary_path language_model output`
 
-where `corpus_directory` is the directory containin each speaker's textgrid and .wav files;
+where `corpus_directory` is the directory containing each speaker's textgrid and .wav files;
 
 `dictionary_path` is the dictionary for the language you are aligning
 
